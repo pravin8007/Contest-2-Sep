@@ -106,6 +106,7 @@ button:hover{
 }
 #search:hover{
     font-size: 30px;
+    box-shadow: 5px -5px 10px black;
 }
 #hash{
     margin-top: 10px;
